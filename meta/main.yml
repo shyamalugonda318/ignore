@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   role_name: docker
-  author: bsmeding
+  author: bsmeding via Shyam
   description: Docker for Linux, Forked from geerlingguy.docker.
   company: "b@rtsmeding.nl"
   license: "license (BSD, MIT)"
